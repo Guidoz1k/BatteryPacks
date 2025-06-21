@@ -1,6 +1,6 @@
 # BatteryPacks
 
-This is the repository for my battery pack for power tools [video]() based on GreatScott's battery pack [video](https://www.youtube.com/watch?app=desktop&v=_WI9Nwqvplo).
+This is the repository for my battery pack for power tools [video](https://www.youtube.com/watch?v=WssWzOCJupA) based on GreatScott's battery pack [video](https://www.youtube.com/watch?app=desktop&v=_WI9Nwqvplo).
 
 ## Documentation:
 
